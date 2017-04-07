@@ -12,3 +12,6 @@ test
 
 # commit from fork
 test
+
+# merge to master
+test
